@@ -1,5 +1,5 @@
 # NikolovG.github.io
 
-Purpose: Serve as a Portfolio/Resume
+Purpose: Display most recent project
 
 Status: Under Construction
